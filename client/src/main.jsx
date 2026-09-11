@@ -925,4 +925,8 @@ createRoot(
   <BrowserRouter>
     <App />
   </BrowserRouter>
+<<<<<<< HEAD
 );
+=======
+);
+>>>>>>> 3c7d78ae99fddfb4ed2bd068daec4762aaf0787c
